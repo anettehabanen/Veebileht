@@ -1,7 +1,7 @@
 footer{
     background-color: seagreen;
     padding: 10px;
-    height: 120px;
+    height: 140px;
     text-align: center;
     color: snow;
     display: grid;
@@ -21,14 +21,14 @@ h2{
     font-family:'Courier New';
     text-align: center; 
     color:snow;
-    font-size: 20px;"
+    font-size: 30px;"
 }
 
 .button{
         background-color: seagreen;
         border: none;
         color:snow;
-        padding: 20px 60px;
+        padding: 20px 45px;
         text-align: center;
         font-size: 25px;
         text-decoration: none;
@@ -37,18 +37,7 @@ h2{
         cursor: pointer;
         border-radius: 16px;
     }
+
     a {color:white;text-decoration:none;}
 
-.boxed{
-    background-color: seagreen;
-    border: none;
-    color:snow;
-    padding: 40px 570px;
-    text-align: center;
-    font-size: 25px;
-    text-decoration: none;
-    display: inline-block;
-    margin: 4px 2px;
-    cursor: pointer;
-    }
 
