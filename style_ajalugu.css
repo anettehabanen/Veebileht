@@ -1,0 +1,49 @@
+.div11{
+    display: grid;
+    grid-template-columns: 5fr 3fr;
+}
+
+.div12{
+    width: 100%;
+    padding: 20px;
+}
+
+.div13{
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+.div14{
+    display: grid;
+    grid-template-columns: 5fr 3fr;
+}
+
+.div15{
+    width: 100%;
+    padding: 20px;
+}
+
+.div16{
+    display: block;
+    margin-left: 20%;
+    margin-right: auto;
+    margin-top: 100px;
+}
+
+.div17{
+    display: grid;
+    grid-template-columns: 5fr 3fr;
+}
+
+.div18{
+    width: 100%;
+    padding: 20px;
+}
+
+.div19{
+    display: block;
+    margin-left: 10%;
+    margin-right: auto;
+}
