@@ -1,4 +1,4 @@
-var slideIndex = 1;
+var slideIndex = 1; // Javascript pildigaleriiks, allikas: https://www.w3schools.com/howto/howto_js_slideshow_gallery.asp
 showSlides(slideIndex);
 
 // Next/previous controls
