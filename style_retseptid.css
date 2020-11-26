@@ -2,7 +2,7 @@
     width: 100%;
 }
 
-#kohvipuding{
+.kohvipuding{
     width: 100%;
 }
 
@@ -14,7 +14,6 @@
     width: 93%;
 }
 
-#kaerahelbepuder{
-    width: 600px;
-    height: 700px;
+.kaerahelbepuder{
+    width: 100%;
 }
